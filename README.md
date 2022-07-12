@@ -11,8 +11,8 @@
 ## Preview
 
 <img src="https://user-images.githubusercontent.com/90236635/178428709-37eec0a4-e1aa-4e5a-96df-a04b894cf1d0.gif">
-<img src="https://user-images.githubusercontent.com/90236635/178429136-27ba8e1f-ba8a-45be-a916-c23e7832b280.png" width="75%">
-<img src="https://user-images.githubusercontent.com/90236635/178429130-c3d957b6-e74e-4c8d-b02a-621485028ff2.png" width="75%">
+<img src="https://user-images.githubusercontent.com/90236635/178429136-27ba8e1f-ba8a-45be-a916-c23e7832b280.png" >
+<img src="https://user-images.githubusercontent.com/90236635/178429130-c3d957b6-e74e-4c8d-b02a-621485028ff2.png" >
 
 ## Available Scripts
 
